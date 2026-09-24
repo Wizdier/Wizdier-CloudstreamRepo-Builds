@@ -8,8 +8,10 @@ and updated remotely.
 Zero dependencies: Python 3 standard library only (works in Termux).
 
 USAGE
-  python3 bdix_relay.py                     # key auto-generated, printed below
-  RELAY_KEY=mysecret python3 bdix_relay.py  # or set your own key
+  python3 bdix_relay.py --key mykey          # RECOMMENDED: key on the command line
+  python3 bdix_relay.py                       # key auto-generated, printed below
+  RELAY_KEY=mysecret python3 bdix_relay.py    # env var also works
+  (optional: --port 8080, --bind 127.0.0.1)
 
 Then expose it to the outside with ONE of (both free, no account):
   A) cloudflared tunnel --url http://127.0.0.1:8080
@@ -243,6 +245,25 @@ class ThreadingRelay(http.server.ThreadingHTTPServer):
 
 
 def main():
+    import argparse
+    ap = argparse.ArgumentParser(
+        description="BDIX dev relay",
+        epilog="example: python bdix_relay.py --key wizdierfix")
+    ap.add_argument("--key", dest="cli_key",
+                    help="relay key (else RELAY_KEY env var, else auto-generated)")
+    ap.add_argument("--port", type=int, dest="cli_port",
+                    help="listen port (default 8080)")
+    ap.add_argument("--bind", dest="cli_bind",
+                    help="bind address (default 127.0.0.1)")
+    args = ap.parse_args()
+    global KEY, PORT, BIND
+    if args.cli_key:
+        KEY = args.cli_key
+    if args.cli_port:
+        PORT = args.cli_port
+    if args.cli_bind:
+        BIND = args.cli_bind
+
     print("=" * 62)
     print(" BDIX dev relay")
     print(" listening : http://%s:%d" % (BIND, PORT))
