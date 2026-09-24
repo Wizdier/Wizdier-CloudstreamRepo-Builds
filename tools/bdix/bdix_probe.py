@@ -118,6 +118,13 @@ def print_result(url, res, extra=""):
 
 
 def main():
+    if len(sys.argv) < 2 or sys.argv[1] in ("-h", "--help"):
+        print(__doc__)
+        print("NOTE: you normally do NOT need this file on your device —")
+        print("      bdix_relay.py is the one to run. This is a probe harness.")
+        print("      A subcommand (probe / batch / range) is required, e.g.:")
+        print("        python bdix_probe.py probe http://103.x.y.z:8080/")
+        return
     ap = argparse.ArgumentParser()
     ap.add_argument("--relay", help="public relay URL, e.g. https://x.trycloudflare.com")
     ap.add_argument("--key", help="relay key")
