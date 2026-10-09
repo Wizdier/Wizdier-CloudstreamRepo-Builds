@@ -120,10 +120,10 @@
  },
  {
   "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/FTPBD.png",
-  "fileHash": "sha256-4549c8bbce965c2e839cc775fd76087b6e61c0d43bf537253e2d853a8eaa788d",
+  "fileHash": "sha256-56bf5a7ff48949b23ce085939c07812a63a0945f14796436f6a0cbddd56a7df2",
   "apiVersion": 1,
   "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-  "fileSize": 172444,
+  "fileSize": 175350,
   "status": 1,
   "language": "bn",
   "authors": [
@@ -134,7 +134,7 @@
    "TvSeries",
    "AnimeMovie"
   ],
-  "version": 16,
+  "version": 17,
   "internalName": "FTPBD",
   "description": "FTPBD — Movies, TV Series and Anime from FTPBD",
   "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FTPBD.cs3",
@@ -185,10 +185,10 @@
  },
  {
   "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-  "fileHash": "sha256-f7ad063495b2f04aa9af3425012c97556fde395f330cfffb444b628d46b879d4",
+  "fileHash": "sha256-054b8b9a62f6169cbf96cc83bec1a1f80eabaa5a6a5d81a517d3dbf1eb0ecbc4",
   "apiVersion": 1,
   "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-  "fileSize": 1065555,
+  "fileSize": 1038610,
   "status": 1,
   "authors": [
    "Wizdier"
@@ -201,7 +201,7 @@
    "Anime",
    "AnimeMovie"
   ],
-  "version": 212,
+  "version": 213,
   "internalName": "Wizstream",
   "description": "A multi source extensions with TMDB and Anilist Catalogue",
   "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wizstream.cs3",
