@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "http://cineplexbd.net/favicon.png?v=2",
-    "fileHash": "sha256-f076fb06ec9cf8494f973b301204c2abcbc6b9f447f15f0b9b24474a6591a05a",
+    "fileHash": "sha256-db4a89a97d04f3a235d5a279b26bc2cfebf45417a8297cb6f16f336a4777af1b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 161339,
+    "fileSize": 184523,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -25,10 +25,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=new.circleftp.net&sz=%size%",
-    "fileHash": "sha256-20fa04c5386d303178030e13fc4076fd01aa43d7a965ec808b0c9c3e081929fd",
+    "fileHash": "sha256-3b0d53475541b0cafb6533b9c698b2a338e8c8266d7580d09efc80359412ce10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 172652,
+    "fileSize": 196510,
     "status": 1,
     "authors": [
       "Wizdier"
@@ -45,16 +45,16 @@
     ],
     "version": 33,
     "internalName": "Circle FTP",
-    "description": "Circle FTP \u2014 Movies, TV Series and Anime",
+    "description": "Circle FTP — Movies, TV Series and Anime",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Circle%20FTP.cs3",
     "name": "Circle FTP"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ctgmovies.com&sz=%size%",
-    "fileHash": "sha256-4bfc89951fb2a7f555812be9fbf25d684d1f72beb2d1b217e83cb5f1df01e603",
+    "fileHash": "sha256-43da121c26542588ff4bbbdbbce7d3a81385f26f867e12b4c20f2fc5bcfb7d36",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 131498,
+    "fileSize": 154674,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -68,16 +68,16 @@
     ],
     "version": 20,
     "internalName": "CTGMovies",
-    "description": "CTGMovies \u2014 Movies, TV Shows and Anime",
+    "description": "CTGMovies — Movies, TV Shows and Anime",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/CTGMovies.cs3",
     "name": "CTGMovies"
   },
   {
     "iconUrl": "https://flixhub.net/uploads/apple-touch-icon.png?v=1784788898",
-    "fileHash": "sha256-35ceb305af13beac83655523a627046dfebe2a3cf59b0a33ba990d9c907ad4c7",
+    "fileHash": "sha256-4efe805f15ecdb8edfea5b3c41e108175ce726ffcf57b7a233c51be9d1cc448a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 101813,
+    "fileSize": 124606,
     "status": 1,
     "authors": [
       "Wizdier"
@@ -91,16 +91,16 @@
     ],
     "version": 20,
     "internalName": "FlixHub",
-    "description": "FlixHub \u2014 Stream Movies and TV Series",
+    "description": "FlixHub — Stream Movies and TV Series",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FlixHub.cs3",
     "name": "FlixHub"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=fmftp.net&sz=%size%",
-    "fileHash": "sha256-10f8165bea8a958efe13dc8ac6e47778229035581b7e5dc7b1266ff8f2da9b6a",
+    "fileHash": "sha256-0826d85318b6e7c9574e5efa97c8661c15bc50783dbfd39c1101f3af05f1c720",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 102873,
+    "fileSize": 125664,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -114,16 +114,16 @@
     ],
     "version": 18,
     "internalName": "FM FTP",
-    "description": "FM FTP \u2014 Movies, TV Shows and Anime from the FM FTP",
+    "description": "FM FTP — Movies, TV Shows and Anime from the FM FTP",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FM%20FTP.cs3",
     "name": "FM FTP"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/FTPBD.png",
-    "fileHash": "sha256-dcb17658f373be52479e7ae3286858e24a89aeaa314d6511a5891a4ee8e8e8b8",
+    "fileHash": "sha256-fcb9862a38f6d0672a0cab1c80d85c0879b1dbc53a6bb96aeb0e807672f824a2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 176463,
+    "fileSize": 194178,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -136,16 +136,16 @@
     ],
     "version": 19,
     "internalName": "FTPBD",
-    "description": "FTPBD \u2014 Movies, TV Series and Anime from FTPBD",
+    "description": "FTPBD — Movies, TV Series and Anime from FTPBD",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FTPBD.cs3",
     "name": "FTPBD"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/mediaserver.png",
-    "fileHash": "sha256-0141fb9ffbf662db90aefb6f581d9d063c7fde9c508f2413dd2c9fd942f8ba68",
+    "fileHash": "sha256-00bc0a6eeec1053a832d7be97220e5dc652188a8e7aa52d5e3cc8ad7023c1f6a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 88090,
+    "fileSize": 111627,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -159,7 +159,7 @@
     ],
     "version": 17,
     "internalName": "Mediaserver",
-    "description": "Mediaserver \u2014 Movies, Series and Anime from the Mediaserver",
+    "description": "Mediaserver — Movies, Series and Anime from the Mediaserver",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Mediaserver.cs3",
     "name": "Mediaserver"
   },
@@ -185,10 +185,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-    "fileHash": "sha256-ef6d51a665c6880cc45aa0071d43f711b7d890342cf281724cc449e45e2df3d2",
+    "fileHash": "sha256-1f902ab2223649dba66aaaf935e71e8293e6a2823c74ac15d9abcae5c7ef9feb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 1051230,
+    "fileSize": 1062726,
     "status": 1,
     "authors": [
       "Wizdier"
