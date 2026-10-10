@@ -24,7 +24,10 @@ failures = []
 
 for p in data:
     name = p.get("name", "<unnamed>")
-    fname = os.path.basename(urllib.parse.unquote(p.get("url", "")))
+    # resolve the FULL url path (e.g. .../main/cs3/Foo.cs3 -> cs3/Foo.cs3)
+    path = urllib.parse.urlparse(urllib.parse.unquote(p.get("url", ""))).path
+    parts = path.split("/main/", 1)
+    fname = parts[1] if len(parts) == 2 else os.path.basename(path)
 
     if not os.path.exists(fname):
         failures.append(f"{name}: url points to missing file {fname!r}")
