@@ -20,7 +20,7 @@
     "version": 25,
     "internalName": "Cineplex BD",
     "description": "Stream Movies, Anime, TV Series from Cineplexbd.",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/Cineplex%20BD.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/Cineplex%20BD.cs3",
     "name": "Cineplex BD"
   },
   {
@@ -46,7 +46,7 @@
     "version": 35,
     "internalName": "Circle FTP",
     "description": "Circle FTP — Movies, TV Series and Anime",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/Circle%20FTP.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/Circle%20FTP.cs3",
     "name": "Circle FTP"
   },
   {
@@ -69,7 +69,7 @@
     "version": 22,
     "internalName": "CTGMovies",
     "description": "CTGMovies — Movies, TV Shows and Anime",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/CTGMovies.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/CTGMovies.cs3",
     "name": "CTGMovies"
   },
   {
@@ -92,7 +92,7 @@
     "version": 22,
     "internalName": "FlixHub",
     "description": "FlixHub — Stream Movies and TV Series",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/FlixHub.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/FlixHub.cs3",
     "name": "FlixHub"
   },
   {
@@ -115,7 +115,7 @@
     "version": 20,
     "internalName": "FM FTP",
     "description": "FM FTP — Movies, TV Shows and Anime from the FM FTP",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/FM%20FTP.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/FM%20FTP.cs3",
     "name": "FM FTP"
   },
   {
@@ -137,7 +137,7 @@
     "version": 21,
     "internalName": "FTPBD",
     "description": "FTPBD — Movies, TV Series and Anime from FTPBD",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/FTPBD.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/FTPBD.cs3",
     "name": "FTPBD"
   },
   {
@@ -160,7 +160,7 @@
     "version": 19,
     "internalName": "Mediaserver",
     "description": "Mediaserver — Movies, Series and Anime from the Mediaserver",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/Mediaserver.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/Mediaserver.cs3",
     "name": "Mediaserver"
   },
   {
@@ -180,7 +180,7 @@
     "version": 2,
     "internalName": "Wiz Activator",
     "description": "Wiz Activator - enter your Wizdier key once here and every Wizdier extension on this device unlocks",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/Wiz%20Activator.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/Wiz%20Activator.cs3",
     "name": "Wiz Activator"
   },
   {
@@ -204,7 +204,7 @@
     "version": 217,
     "internalName": "Wizstream",
     "description": "A multi source extensions with TMDB and Anilist Catalogue",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/cs3/Wizstream.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/v217/Wizstream.cs3",
     "name": "Wizstream"
   }
 ]
