@@ -1,10 +1,9 @@
 # Wizdier CloudStream Repository
 
-> **Free movies, series & anime for CloudStream — built for Bangladesh.**
+> **Movies, Series & Anime for CloudStream — built for Bangladesh.**
 
 [![CloudStream](https://img.shields.io/badge/CloudStream-extension-blueviolet?logo=android)](https://github.com/recloudstream/cloudstream)
 [![Extensions](https://img.shields.io/badge/extensions-8-success)](#-whats-inside)
-[![Latest build](https://img.shields.io/badge/Wizstream-v192-orange)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](LICENSE)
 
 ---
