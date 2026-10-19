@@ -73,32 +73,5 @@ hosted, uploaded or owned here. You are responsible for what you access.
 
 ---
 
-## For developers
-
-Kotlin, built with the [recloudstream](https://github.com/recloudstream) Gradle plugin (AGP 8.7.3 / Kotlin 2.3.0, `compileSdk 35`).
-
-```bash
-./gradlew make makePluginsJson   # builds all 8 .cs3 packages + plugins.json
-./gradlew :Wizstream:make        # builds just Wizstream/build/Wizstream.cs3
-```
-
-`WizstreamSources.kt` holds the shared link-resolving engine (one
-`SourceResolver` per site, fanned out in parallel per episode request);
-`WizstreamAnimeSources.kt` the anime-web resolvers. Version history lives
-compactly in [CHANGELOG.md](CHANGELOG.md); full detail in the git log.
-
----
-
-## License
-
-Copyright (C) 2026 Wizdier. Released under the [GNU GPL v3](LICENSE) —
-the same license as the [CloudStream](https://github.com/recloudstream/cloudstream)
-app and its extension ecosystem. The .cs3 binaries in this repository are built
-from the corresponding plugin sources. Each plugin links against the CloudStream
-API, so the corresponding source (and this notice) must travel with any
-redistribution.
-
----
-
 <sub>Not affiliated with CloudStream, TMDB, AniList, MDBList or any listed
 site.</sub>
