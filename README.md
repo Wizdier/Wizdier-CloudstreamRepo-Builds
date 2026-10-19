@@ -31,6 +31,7 @@
 | **Anime Servers** | **AnimeX**, **AniZone**, **AniHQ** |
 | **Subtitles** | **Wyzie Subs** integration adds subtitles |
 | **Ratings** | **MDBList** integration shows **IMDb**, **Rotten Tomatoes**, **Metacritic**, and **MAL** scores together on the page. |
+| **Skip Times** | **IntroDB** / **TheIntroDB** integration fetches community skip stamps for intros, recaps and outros on supported shows and movies. |
 
 ---
 
@@ -90,10 +91,12 @@ compactly in [CHANGELOG.md](CHANGELOG.md); full detail in the git log.
 
 ## License
 
-Released under the [GNU GPL v3](LICENSE), the same license as the
-[CloudStream](https://github.com/recloudstream/cloudstream) app and its
-extension ecosystem. Each plugin links against the CloudStream API, so the
-corresponding source (and this notice) must travel with any redistribution.
+Copyright (C) 2026 Wizdier. Released under the [GNU GPL v3](LICENSE) —
+the same license as the [CloudStream](https://github.com/recloudstream/cloudstream)
+app and its extension ecosystem. The .cs3 binaries in this repository are built
+from the corresponding plugin sources. Each plugin links against the CloudStream
+API, so the corresponding source (and this notice) must travel with any
+redistribution.
 
 ---
 
