@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "http://cineplexbd.net/favicon.png?v=2",
-    "fileHash": "sha256-5d18eb00aef9cd64747a1de02b264750a14db01f0c558777832a74208b7950c5",
+    "fileHash": "sha256-c189bf3111891ed5b8851a0232c500ca77e9efed602bfbba8308ea03ece612c0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 198335,
+    "fileSize": 198292,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -25,7 +25,7 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=new.circleftp.net&sz=%size%",
-    "fileHash": "sha256-1114ca08d7092ff5d47f3e5b5755ab64a0afed4cb148d5152640676bce5c1ef3",
+    "fileHash": "sha256-8b2fc67ad21f41ac921d0ca597043626447c717464d64a4a95d850577a6f3730",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
     "fileSize": 253094,
@@ -51,10 +51,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ctgmovies.com&sz=%size%",
-    "fileHash": "sha256-5484cebf4a959f81c79718375efca79c15a6c2dd79f2e3c4d54dd8a9ac2afe0e",
+    "fileHash": "sha256-9a34e0e19f8e7b6c9aadf6bab841bad60aadf7f792f8d64ab5ebb4879b5cf4cd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 167192,
+    "fileSize": 167164,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -74,10 +74,10 @@
   },
   {
     "iconUrl": "https://flixhub.net/uploads/apple-touch-icon.png?v=1784788898",
-    "fileHash": "sha256-8f9777562001b400fcb97a0bb0725bb5fb0e4191be86394a30b5f25fbe6c802e",
+    "fileHash": "sha256-bdc5db826139c14958c7dcb98404fb44f114f713a9f1fba06e5ca49d082bea92",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 138362,
+    "fileSize": 138366,
     "status": 1,
     "authors": [
       "Wizdier"
@@ -97,10 +97,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/FTPBD.png",
-    "fileHash": "sha256-e52c8fae4bbcb4bc0948161ff21b96c8f8b3df5b5f680a6c1b2a2c21b5e51a21",
+    "fileHash": "sha256-5b9c22b7783bfdf81f07a49865eacb96a79fab4d5d58bc63f9f1e30995091422",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 211752,
+    "fileSize": 211754,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -119,10 +119,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/mediaserver.png",
-    "fileHash": "sha256-848814e44671f14b09a2d970f72f56a5648be71ca2686fb3c9ba506144df3e98",
+    "fileHash": "sha256-bf9352103210a5435aac3eabc55a4220a8610d088a5c7919e61794c0a6b4156c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 123367,
+    "fileSize": 123355,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -142,10 +142,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/wiz-activator.png",
-    "fileHash": "sha256-188dc9c1276b612f7c54d6082cbb158c924df068e27ece1c9380b0c43fb97903",
+    "fileHash": "sha256-20b4f7751b43329f60bdc5ef23b2d4635cee33097892be314e11b40cad0ac0de",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 79287,
+    "fileSize": 79242,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -162,10 +162,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-    "fileHash": "sha256-9b44298c2e44c45465930f69c8bac7ff2cf484fe42f56b170017dc5c3f645db5",
+    "fileHash": "sha256-53612b75ae7162b577b618cf70d9b2546566c2600c28d414a20a3888fa86e7d3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 1290941,
+    "fileSize": 1290873,
     "status": 1,
     "authors": [
       "Wizdier"
