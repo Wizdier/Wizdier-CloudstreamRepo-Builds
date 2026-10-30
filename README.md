@@ -20,7 +20,9 @@
    ```
    wizrepo
    ``` 
-3. Buy the subscription packs and enjoy streaming.
+3. Buy the subscription packs from the discord server and enjoy streaming.
+[![Discord](https://invidget.switchblade.xyz/xcYWfbhTuV)](https://discord.gg/xcYWfbhTuV)
+
 ---
 
 ## What you get
