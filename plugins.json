@@ -74,10 +74,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/dhakaflix.png",
-    "fileHash": "sha256-9f7f3b3c24f709c803d976bf36f86d19e80d640d81d52a4473607ffde984302b",
+    "fileHash": "sha256-6a9f699d65712548dee961decc75c7d4d3fc03563f778328f0d47dea82d0f62b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 128365,
+    "fileSize": 143074,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -90,7 +90,7 @@
       "AnimeMovie",
       "Cartoon"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DhakaFlix",
     "description": "DhakaFlix — Movies, TV Series and Anime from the DhakaFlix LAN network",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/DhakaFlix.cs3",
@@ -186,10 +186,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-    "fileHash": "sha256-6184c74c2895d4f3249bf4fb0f1b9c501e2ccc943e4ecb13c453e070d9f243ec",
+    "fileHash": "sha256-1d87e9536d327b4f3d22bd6cb3535d267c3b4694d99dd4690307e11eee49272a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 1338614,
+    "fileSize": 1341999,
     "status": 1,
     "authors": [
       "Wizdier"
@@ -202,7 +202,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 287,
+    "version": 288,
     "internalName": "Wizstream",
     "description": "A multi source extensions with TMDB and Anilist Catalogue",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wizstream.cs3",
