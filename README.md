@@ -28,8 +28,7 @@
 ## What you get
 | Category | Available services |
 | :--- | :--- |
-| **BDIX** | **CircleFTP**, **CineplexBD**, **CTGMovies**, **FTPBD**, **FMFTP**, **Mediaserver**, **FlixHub** |
-| **LAN Network** | **DhakaFlix** — the owner's DhakaFlix LAN fleet (DF7/DF14/DF12/DF10 servers, every server its own source row in the player) with TMDB + AniList enrichment |
+| **BDIX** | **CircleFTP**, **CineplexBD**, **CTGMovies**,**DhakaFlix**, **FlixHub**, **FTPBD**, **Mediaserver** |
 | **Web Servers** | **Bingr**, **PirateXPlay**, **PirateXPlay Max**, **Movy**, **MultiMovies**, **Cinejoy**|
 | **Anime Servers** | **AnimeX**, **AniZone**, **AniHQ** |
 | **Subtitles** | **Wyzie Subs** integration adds subtitles |
