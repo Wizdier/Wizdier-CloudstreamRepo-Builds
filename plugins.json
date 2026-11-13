@@ -73,10 +73,10 @@
     "name": "Circle FTP"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo/main/icons/dhakaflix.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/dhakaflix.png",
     "fileHash": "sha256-97dbe102f1dd8df1d8f3b6025d793f6d4ca773f49280897c15f30f9b2543074e",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
+    "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
     "fileSize": 151415,
     "status": 1,
     "language": "bn",
@@ -93,7 +93,7 @@
     "version": 3,
     "internalName": "DhakaFlix",
     "description": "DhakaFlix — Movies, TV Series and Anime from the DhakaFlix LAN network",
-    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo/builds/DhakaFlix.cs3",
+    "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/DhakaFlix.cs3",
     "name": "DhakaFlix"
   },
   {

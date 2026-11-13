@@ -9,6 +9,11 @@ made every extension uninstallable after the v215 push):
   3. plugins.json version   != manifest.json version inside the .cs3
   4. the .cs3 is not a valid zip / missing classes.dex / missing manifest.json
   5. the url basename does not resolve to a file in the repo
+  6. the url does not serve from this repo's canonical raw lane — the v289
+     DhakaFlix 404: the entry pointed at the source repo's dead `builds`
+     branch, the app downloaded GitHub's "404: Not Found" body and the
+     digest gate threw "Mismatched digest on transfer" while every local
+     check here stayed green (the local bytes were never the problem)
 """
 import hashlib
 import json
@@ -19,11 +24,27 @@ import zipfile
 
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+# (v290 guard) the one canonical raw lane every download url must serve
+# from. Derived from GITHUB_REPOSITORY in Actions; the local default is
+# this repo. A url outside this lane cannot serve this repo's bytes —
+# that is a ship-blocking defect, not a style nit.
+CANONICAL_RAW = (
+    "https://raw.githubusercontent.com/"
+    + os.environ.get("GITHUB_REPOSITORY", "Wizdier/Wizdier-CloudstreamRepo-Builds")
+    + "/main/"
+)
+
 data = json.load(open("plugins.json", encoding="utf-8"))
 failures = []
 
 for p in data:
     name = p.get("name", "<unnamed>")
+    # (v290 guard) wrong-repo / wrong-branch lanes fail FIRST — the local
+    # file checks below cannot see them (v289 shipped green with a 404 url).
+    if not p.get("url", "").startswith(CANONICAL_RAW):
+        failures.append(
+            f"{name}: url outside the canonical lane {CANONICAL_RAW!r}: {p.get('url')!r}"
+        )
     # resolve the FULL url path (e.g. .../main/cs3/Foo.cs3 -> cs3/Foo.cs3)
     path = urllib.parse.urlparse(urllib.parse.unquote(p.get("url", ""))).path
     parts = path.split("/main/", 1)
