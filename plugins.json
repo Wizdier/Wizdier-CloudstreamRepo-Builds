@@ -18,7 +18,7 @@
     ],
     "version": 35,
     "internalName": "CTGMovies",
-    "description": "CTGMovies \u2014 Movies, TV Shows and Anime",
+    "description": "CTGMovies — Movies, TV Shows and Anime",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/CTGMovies.cs3",
     "name": "CTGMovies"
   },
@@ -68,7 +68,7 @@
     ],
     "version": 55,
     "internalName": "Circle FTP",
-    "description": "Circle FTP \u2014 Movies, TV Series and Anime",
+    "description": "Circle FTP — Movies, TV Series and Anime",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Circle%20FTP.cs3",
     "name": "Circle FTP"
   },
@@ -92,7 +92,7 @@
     ],
     "version": 3,
     "internalName": "DhakaFlix",
-    "description": "DhakaFlix \u2014 Movies, TV Series and Anime from the DhakaFlix LAN network",
+    "description": "DhakaFlix — Movies, TV Series and Anime from the DhakaFlix LAN network",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/DhakaFlix.cs3",
     "name": "DhakaFlix"
   },
@@ -114,7 +114,7 @@
     ],
     "version": 38,
     "internalName": "FTPBD",
-    "description": "FTPBD \u2014 Movies, TV Series and Anime from FTPBD",
+    "description": "FTPBD — Movies, TV Series and Anime from FTPBD",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FTPBD.cs3",
     "name": "FTPBD"
   },
@@ -137,7 +137,7 @@
     ],
     "version": 35,
     "internalName": "FlixHub",
-    "description": "FlixHub \u2014 Stream Movies and TV Series",
+    "description": "FlixHub — Stream Movies and TV Series",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FlixHub.cs3",
     "name": "FlixHub"
   },
@@ -160,7 +160,7 @@
     ],
     "version": 32,
     "internalName": "Mediaserver",
-    "description": "Mediaserver \u2014 Movies, Series and Anime from the Mediaserver",
+    "description": "Mediaserver — Movies, Series and Anime from the Mediaserver",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Mediaserver.cs3",
     "name": "Mediaserver"
   },
@@ -186,10 +186,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-    "fileHash": "sha256-c9d065e386c636e54ec39067880ff8425f0da6b2e1f6baaf6488542bc3cdcfad",
+    "fileHash": "sha256-b088856ccc06edf8ec7dca229df2436dd3e097d6bc6856792c3fb0120a4314db",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo-Builds",
-    "fileSize": 1400237,
+    "fileSize": 1409256,
     "status": 1,
     "authors": [
       "Wizdier"
@@ -202,7 +202,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 292,
+    "version": 293,
     "internalName": "Wizstream",
     "description": "A multi source extensions with TMDB and Anilist Catalogue",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wizstream.cs3",
