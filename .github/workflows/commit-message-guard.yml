@@ -1,0 +1,50 @@
+name: commit-message-guard
+
+# THE BUILDS-COMMIT LAW (2026-11-14, the owner's ask): every commit on this
+# branch must be ONE LINE and at most 20 words. The deploy history is a list
+# of short labels; the full release detail lives in the source repo's commit
+# and its CHANGELOG.md. Pre-law commits are grandfathered (only the commits
+# of a NEW push are checked — the history is never rewritten).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Every new commit must be one line and max 20 words
+        env:
+          COMMITS: ${{ toJSON(github.event.commits) }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, sys
+          raw = os.environ.get("COMMITS") or "null"
+          try:
+              commits = json.loads(raw)
+          except json.JSONDecodeError:
+              print("no parsable commits payload — nothing to check")
+              sys.exit(0)
+          if not commits:
+              print("push carries no commit objects (force-push/dispatch) — nothing to check")
+              sys.exit(0)
+          bad = []
+          for c in commits:
+              msg = (c.get("message") or "").strip()
+              if not msg:
+                  continue
+              lines = [l for l in msg.splitlines() if l.strip()]
+              words = " ".join(lines).split()
+              sha = (c.get("id") or "?")[:10]
+              if len(lines) > 1:
+                  bad.append(f"{sha}: MULTI-LINE message ({len(lines)} lines): {lines[0][:70]}")
+              elif len(words) > 20:
+                  bad.append(f"{sha}: {len(words)} WORDS (> 20): {lines[0][:70]}")
+          if bad:
+              for b in bad:
+                  print(f"::error::BUILDS-COMMIT LAW violated — {b}")
+              print("The law: one line, max 20 words. Detail belongs in the source repo commit + CHANGELOG.md (docs/SHIP-LAWS.md).")
+              sys.exit(1)
+          print(f"builds-commit law OK: all {len(commits)} commit(s) are one line, <= 20 words")
+          PYEOF
