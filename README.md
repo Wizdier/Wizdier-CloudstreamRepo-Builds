@@ -29,7 +29,7 @@
 | Category | Available services |
 | :--- | :--- |
 | **BDIX** | **CircleFTP**, **CineplexBD**, **CTGMovies**,**DhakaFlix**, **FlixHub**, **FTPBD**, **Mediaserver** |
-| **Web Servers** | **Bingr**, **PirateXPlay**, **PirateXPlay Max**, **Movy**, **MultiMovies**, **Cinejoy**, **CNO**|
+| **Web Servers** | **Bingr**, **Cinejoy**, **CNO**, **Kartoons**, **Movy**, **MultiMovies**, **PirateXPlay**, **PirateXPlay Max**, |
 | **Anime Servers** | **AnimeX**, **AniZone**, **AniHQ**, **Ani.pm** |
 | **Subtitles** | **Wyzie Subs** integration adds subtitles |
 | **Ratings** | **MDBList** integration shows **IMDb**, **Rotten Tomatoes**, **Metacritic**, and **MAL** scores together on the page. |
