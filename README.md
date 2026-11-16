@@ -29,8 +29,8 @@
 | Category | Available services |
 | :--- | :--- |
 | **BDIX** | **CircleFTP**, **CineplexBD**, **CTGMovies**,**DhakaFlix**, **FlixHub**, **FTPBD**, **Mediaserver** |
-| **Web Servers** | **Bingr**, **Cinejoy**, **CNO**, **Kartoons**, **Movy**, **MultiMovies**, **PirateXPlay**, **PirateXPlay Max**, |
-| **Anime Servers** | **AnimeX**, **AniZone**, **AniHQ**, **Ani.pm** |
+| **Web Servers** | **1Shows** (18 city servers incl. Delhi Hindi + 4K), **7Movies**, **Bingr**, **Cinejoy**, **CNO**, **Kartoons**, **Movy**, **MultiMovies**, **PirateXPlay**, **PirateXPlay Max**, **ToonStream** |
+| **Anime Servers** | **AnimeX**, **AniZone**, **AniHQ**, **Ani.pm**, **Sky** (4K anime), **ToonStream Anime**, **Kartoons Anime** |
 | **Subtitles** | **Wyzie Subs** integration adds subtitles |
 | **Ratings** | **MDBList** integration shows **IMDb**, **Rotten Tomatoes**, **Metacritic**, and **MAL** scores together on the page. |
 | **Skip Times** | **IntroDB** / **TheIntroDB** integration fetches community skip stamps for intros, recaps and outros on supported shows and movies. |
