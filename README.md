@@ -26,11 +26,11 @@
 ---
 
 ## What you get
-| Category | Available services |
+| Category | Available services (the source atlas index) |
 | :--- | :--- |
-| **BDIX** | **CircleFTP**, **CineplexBD**, **CTGMovies**,**DhakaFlix**, **FlixHub**, **FTPBD**, **Mediaserver** |
-| **Web Servers** | **1Shows**, **7Movies**, **Bingr**, **Cinejoy**, **CNO**, **Kartoons**, **Movy**, **MultiMovies**, **PirateXPlay**, **PirateXPlay Max**, **ToonStream** |
-| **Anime Servers** | **AnimeX**, **AniZone**, **AniHQ**, **Ani.pm**, **Sky** , **ToonStream Anime**, **Kartoons Anime** |
+| **BDIX** | **01 Cineplex BD**, **02 FTPBD**, **03 Circle FTP**, **04 CTG Movies**, **05 MediaVault**, **06 FlixHub**, **07 DhakaFlix**, **08 DhakaFlix Anime** |
+| **Web Servers** | **09 Bingr**, **10 PirateXPlay**, **11 PirateXPlay Max**, **12 Movy**, **13 MultiMovies**, **14 Cinejoy**, **15 CNO**, **16 Kartoons**, **17 ToonStream**, **18 7Movies**, **19 1Shows** |
+| **Anime Servers** | **20 AnimeX**, **21 AniZone**, **22 AniHQ**, **23 Sky**, **24 Ani.pm**, **16 Kartoons Anime**, **17 ToonStream Anime**, **18 7Movies Anime**, **19 1Shows Anime** |
 | **Subtitles** | **Wyzie Subs** integration adds subtitles |
 | **Ratings** | **MDBList** integration shows **IMDb**, **Rotten Tomatoes**, **Metacritic**, and **MAL** scores together on the page. |
 | **Skip Times** | **IntroDB** / **TheIntroDB** integration fetches community skip stamps for intros, recaps and outros on supported shows and movies. |
