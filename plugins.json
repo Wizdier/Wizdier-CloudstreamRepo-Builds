@@ -210,10 +210,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/wizsync.png",
-        "fileHash": "sha256-9e3773d58ec2ad95b178eb780cf90a1dfeb6a0c36e36c8afc3fea272d55409ce",
+        "fileHash": "sha256-bb8346475267782bea2d5be0570982228f41f15e94bdb6ffce0880acc8ac8b79",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
-        "fileSize": 161237,
+        "fileSize": 164899,
         "status": 1,
         "language": "bn",
         "authors": [
@@ -225,7 +225,7 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "WizSync",
         "description": "WizSync - cross-device sync on your own Firebase Realtime Database: bookmarks, resume watching, search history and settings ride the ultima-compatible wire (gz + manifest + fleet), three-way merged onto every device sharing your sync key. Watch-party rooms and new-episode alerts ride the same key.",
         "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/WizSync.cs3",
