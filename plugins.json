@@ -186,10 +186,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-        "fileHash": "sha256-a758e64a315b56794ad39080e6579cd988ac6d056d4247598560000bf6c54f53",
+        "fileHash": "sha256-3f00cad3ec1d5b10540043592f93be4c0328d6ac788101a981c54823a10ce803",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
-        "fileSize": 1474077,
+        "fileSize": 1478505,
         "status": 1,
         "authors": [
             "Wizdier"
@@ -202,33 +202,10 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 303,
+        "version": 304,
         "internalName": "Wizstream",
         "description": "A multi source extensions with TMDB and Anilist Catalogue",
         "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wizstream.cs3",
         "name": "Wizstream"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/wizsync.png",
-        "fileHash": "sha256-bb8346475267782bea2d5be0570982228f41f15e94bdb6ffce0880acc8ac8b79",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
-        "fileSize": 164899,
-        "status": 1,
-        "language": "bn",
-        "authors": [
-            "Wizdier"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 4,
-        "internalName": "WizSync",
-        "description": "WizSync - cross-device sync on your own Firebase Realtime Database: bookmarks, resume watching, search history and settings ride the ultima-compatible wire (gz + manifest + fleet), three-way merged onto every device sharing your sync key. Watch-party rooms and new-episode alerts ride the same key.",
-        "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/WizSync.cs3",
-        "name": "WizSync"
     }
 ]
