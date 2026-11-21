@@ -186,10 +186,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Wizstream-Icon.png",
-    "fileHash": "sha256-f98e4674f2d2c935f9731701fb28249274d44cd533f0f635f4a74d30829a202d",
+    "fileHash": "sha256-eab102b7790b8bc5ca38cd20fc87459d26bd151a0cf5464cd958d51b03a9432a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
-    "fileSize": 1531615,
+    "fileSize": 1531920,
     "status": 1,
     "authors": [
       "Wizdier"
@@ -202,7 +202,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 309,
+    "version": 310,
     "internalName": "Wizstream",
     "description": "A multi source extensions with TMDB and Anilist Catalogue",
     "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wizstream.cs3",
