@@ -1,7 +1,7 @@
 {
     "name": "Wizdier Repository",
     "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/Icon.png",
-    "description": "Movies, Series & Anime for CloudStream \u2014 private builds",
+    "description": "Movies, Series & Anime for CloudStream — private builds",
     "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/plugins.json"

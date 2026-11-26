@@ -1,7 +1,7 @@
 [
     {
         "iconUrl": "http://cineplexbd.net/favicon.png?v=2",
-        "fileHash": "sha256-93d634548c0e77e294903dabbe4306de7220b8cc19b5f2981fd7451d774199f6",
+        "fileHash": "sha256-b1e2ddac4570309ee7501d94dd226ef2b0093dadbbcfce59416c5b36a092fb74",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 162630,
@@ -25,7 +25,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=new.circleftp.net&sz=%size%",
-        "fileHash": "sha256-27be01f3f8f6d5fa67f5a81c88fa799f36710a48dd39c5f369485c8b47cdb230",
+        "fileHash": "sha256-2b5ae6fbcc514c7361b255a0fd6744832776f762a2236d0f78ee674daab63e92",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 222209,
@@ -51,7 +51,7 @@
     },
     {
         "iconUrl": "https://ctgmovies.com/brand-icon?d=2&c=%23e8b600",
-        "fileHash": "sha256-5d0b6f99280ea689ca1742d003c986e965804cab22fbf39a9ac4f795871b358a",
+        "fileHash": "sha256-2f5d9d0458bb5896684afa0e5cab99042fffb5fb151e49eefd4336c81aa70ec2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 132535,
@@ -74,7 +74,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/dhakaflix.png",
-        "fileHash": "sha256-122d4b82542d99325db623ec1b3e0338deae1ffbb3daf990370d86febe2b4830",
+        "fileHash": "sha256-74f61932c064cf9d2e8ff6176b5449f8fd6b8a016ba29561860cb61f7d1ce72a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 113502,
@@ -98,7 +98,7 @@
     },
     {
         "iconUrl": "https://flixhub.net/uploads/apple-touch-icon.png?v=1784788898",
-        "fileHash": "sha256-26b4eddfb92b5ec44aa06a96c87c3dae1f35c00d09ca3b4a5fe0afbfd3a29329",
+        "fileHash": "sha256-a1a65bd8eba770bc004be57a3b835bb071e78a5e1ba187d41c24c07a6010d300",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 103662,
@@ -121,7 +121,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/FTPBD.png",
-        "fileHash": "sha256-38dda47d97b3e73030832e90509b51227df77508e9f83ce5caa2be7010e133d6",
+        "fileHash": "sha256-701afaa0ded7016ec93db609e44a805dca24fb69adb6cbab2f8f25c2435dc347",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 181091,
@@ -143,7 +143,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/mediaserver.png",
-        "fileHash": "sha256-0058cd5b16675d9688413d8e509182589ad0a3781e266743f197ada05f33f3ba",
+        "fileHash": "sha256-9f8782de3fba3f05c6f2272b360567389669a5c42e88ed83a0f1674220d34272",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 88493,
@@ -166,7 +166,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/wiz-activator.png",
-        "fileHash": "sha256-43b24e85dd5001d9c46176eff3d99e9c8a731584942cf5175eb75e805621698d",
+        "fileHash": "sha256-e215e18d87d52e29fb9b60c67e40e8a75358b3da17cf0dead6ddae7e74f614aa",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
         "fileSize": 82548,
@@ -205,7 +205,7 @@
         "version": 327,
         "internalName": "Wizstream",
         "description": "A multi source extensions with TMDB and Anilist Catalogue",
-        "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo/builds/Wizstream.cs3",
+        "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wizstream.cs3",
         "name": "Wizstream"
     }
 ]
