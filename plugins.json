@@ -120,6 +120,29 @@
         "name": "FlixHub"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fmftp.net&sz=%size%",
+        "fileHash": "sha256-df138be887a5ab3ebc5c194b9177411c5f52c008c2867fd8e6416c31591d2012",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
+        "fileSize": 109640,
+        "status": 1,
+        "language": "bn",
+        "authors": [
+            "Wizdier"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 22,
+        "internalName": "FM FTP",
+        "description": "FM FTP — Movies, TV Shows and Anime from the FM FTP",
+        "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/FM FTP.cs3",
+        "name": "FM FTP"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/FTPBD.png",
         "fileHash": "sha256-0c19ea8ad7cdfff3fdc38555143fa57278e888f15386f924432767da8d3ba51c",
         "apiVersion": 1,
