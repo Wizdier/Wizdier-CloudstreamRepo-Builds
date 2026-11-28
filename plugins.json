@@ -189,10 +189,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/wiz-activator.png",
-        "fileHash": "sha256-f1cba59c8298c501b022f9ed28bae2966d4766fb0d22e6f769001981c71d9b08",
+        "fileHash": "sha256-b590f3c4a018eb605fb77e0aaf67c4386345baa6f510a2f3988444a477ab58d0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
-        "fileSize": 88202,
+        "fileSize": 88405,
         "status": 1,
         "language": "bn",
         "authors": [
@@ -201,7 +201,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "Wiz Activator",
         "description": "Wiz Activator - enter your Wizdier key once here and every Wizdier extension on this device unlocks",
         "url": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/Wiz Activator.cs3",
