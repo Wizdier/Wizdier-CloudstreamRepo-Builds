@@ -189,10 +189,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Wizdier/Wizdier-CloudstreamRepo-Builds/main/icons/wiz-activator.png",
-        "fileHash": "sha256-e215e18d87d52e29fb9b60c67e40e8a75358b3da17cf0dead6ddae7e74f614aa",
+        "fileHash": "sha256-f1cba59c8298c501b022f9ed28bae2966d4766fb0d22e6f769001981c71d9b08",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Wizdier/Wizdier-CloudstreamRepo",
-        "fileSize": 82548,
+        "fileSize": 88202,
         "status": 1,
         "language": "bn",
         "authors": [
